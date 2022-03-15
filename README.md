@@ -1,3 +1,4 @@
+[Link My Challenge](https://facu3071.github.io/stats-card.github.io/)
 # Frontend Mentor - Stats preview card component
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
